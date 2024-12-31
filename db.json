@@ -1,0 +1,56 @@
+{
+  "uploadVideos": [
+    {
+      "id": "5f6b",
+      "caption": "demo",
+      "imgUrl": "https://m.media-amazon.com/images/I/81rEhhwbubL._AC_UF1000,1000_QL80_.jpg",
+      "youtubeLink": "https://www.youtube.com/embed/Ades3pQbeh8"
+    },
+    {
+      "id": "c9fd",
+      "caption": "Messi",
+      "imgUrl": "https://assets.architecturaldigest.in/photos/63806da6d2c4a1a597b273fd/16:9/w_2560%2Cc_limit/1442809583",
+      "youtubeLink": "https://www.youtube.com/embed/fDnSE-hbivg"
+    }
+  ],
+  "categories": [
+    {
+      "id": "defe",
+      "categoryName": "Music",
+      "allVideos": [
+        {
+          "id": "a3de",
+          "caption": "Paint it, Black",
+          "imgUrl": "https://i.scdn.co/image/ab67616d0000b2738d1570a03b9354518f0b618b",
+          "youtubeLink": "https://www.youtube.com/embed/O4irXQhgMqg"
+        },
+        {
+          "id": "a3de",
+          "caption": "Paint it, Black",
+          "imgUrl": "https://i.scdn.co/image/ab67616d0000b2738d1570a03b9354518f0b618b",
+          "youtubeLink": "https://www.youtube.com/embed/O4irXQhgMqg"
+        },
+        {
+          "id": "cb4d",
+          "caption": "Tail Wind Css",
+          "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQGVV8fOc_D2_vxf1_MrxRuPeF3Y1EFAJrxg&s",
+          "youtubeLink": "https://www.youtube.com/embed/DenUCuq4G04"
+        }
+      ]
+    }
+  ],
+  "history": [
+    {
+      "id": "f625",
+      "caption": "Paint it, Black",
+      "youtubeLink": "https://www.youtube.com/embed/O4irXQhgMqg",
+      "timeStamp": "12/30/2024, 12:22:09 PM GMT+5:30"
+    },
+    {
+      "id": "42e3",
+      "caption": "Paint it, Black",
+      "youtubeLink": "https://www.youtube.com/embed/O4irXQhgMqg",
+      "timeStamp": "12/30/2024, 12:45:55 PM GMT+5:30"
+    }
+  ]
+}
